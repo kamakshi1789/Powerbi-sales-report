@@ -1,0 +1,321 @@
+OrderID,OrderDate,CustomerID,CustomerName,City,State,ProductID,ProductName,Category,Quantity,UnitPrice,Discount%,DiscountAmount,NetRevenue,COGS,Profit,PaymentMethod,Channel
+ORD-202401-1000,03-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P024,Kids Activity Kit,Toys,3,1200,0,0.0,3600.0,2063.4,1536.6,Net Banking,Online
+ORD-202401-1001,12-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P018,Air Purifier,Appliances,4,12000,10,4800.0,43200.0,26073.13,17126.87,EMI,Online
+ORD-202401-1002,09-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P022,Business Book,Books,4,650,5,130.0,2470.0,1494.43,975.57,Cash on Delivery,Online
+ORD-202401-1003,26-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P016,Mixer Grinder,Appliances,3,4200,10,1260.0,11340.0,7818.66,3521.34,Net Banking,Mobile App
+ORD-202401-1004,04-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P012,Jeans,Clothing,4,2500,10,1000.0,9000.0,6057.66,2942.34,Debit Card,Store
+ORD-202401-1005,23-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P024,Kids Activity Kit,Toys,2,1200,5,120.0,2280.0,1519.81,760.19,Cash on Delivery,Online
+ORD-202401-1006,18-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P006,Office Chair,Furniture,1,12000,10,1200.0,10800.0,7143.37,3656.63,EMI,Online
+ORD-202401-1007,09-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P016,Mixer Grinder,Appliances,2,4200,0,0.0,8400.0,5714.05,2685.95,UPI,Mobile App
+ORD-202401-1008,01-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P012,Jeans,Clothing,2,2500,10,500.0,4500.0,3009.73,1490.27,Net Banking,Online
+ORD-202401-1009,20-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P002,Smartphone,Electronics,2,18000,0,0.0,36000.0,21633.91,14366.09,UPI,Mobile App
+ORD-202401-1010,22-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P023,Self Help Book,Books,2,550,0,0.0,1100.0,552.55,547.45,Debit Card,Store
+ORD-202401-1011,16-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P005,Smartwatch,Electronics,4,8000,10,3200.0,28800.0,17987.54,10812.46,Debit Card,Online
+ORD-202401-1012,13-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P009,Bed Frame,Furniture,4,22000,20,17600.0,70400.0,46458.4,23941.6,UPI,Reseller
+ORD-202401-1013,01-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P014,Formal Shoes,Clothing,3,6000,0,0.0,18000.0,9412.81,8587.19,Net Banking,Store
+ORD-202401-1014,06-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P007,Study Table,Furniture,2,8500,0,0.0,17000.0,8964.07,8035.93,Credit Card,Store
+ORD-202401-1015,23-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P001,Laptop,Electronics,4,45000,10,18000.0,162000.0,106139.46,55860.54,UPI,Reseller
+ORD-202401-1016,09-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P004,Headphones,Electronics,2,3500,0,0.0,7000.0,4804.35,2195.65,EMI,Mobile App
+ORD-202401-1017,16-01-2024,C008,Ananya Nair,Kochi,Kerala,P008,Bookshelf,Furniture,4,6000,0,0.0,24000.0,13588.85,10411.15,Cash on Delivery,Store
+ORD-202401-1018,05-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P015,Jacket,Clothing,3,3800,5,570.0,10830.0,7088.02,3741.98,Net Banking,Mobile App
+ORD-202401-1019,23-01-2024,C015,Suresh Pillai,Thiruvananthapuram,Maharashtra,P025,Board Game,Toys,2,2200,10,440.0,3960.0,2053.21,1906.79,EMI,Mobile App
+ORD-202401-1020,25-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P025,Board Game,Toys,4,2200,15,1320.0,7480.0,4335.66,3144.34,EMI,Mobile App
+ORD-202401-1021,03-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P011,Cotton Shirt,Clothing,3,1200,10,360.0,3240.0,1957.44,1282.56,UPI,Online
+ORD-202401-1022,17-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P004,Headphones,Electronics,3,3500,15,1575.0,8925.0,5175.43,3749.57,Cash on Delivery,Online
+ORD-202401-1023,12-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P007,Study Table,Furniture,3,8500,0,0.0,25500.0,17050.35,8449.65,EMI,Online
+ORD-202401-1024,06-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P006,Office Chair,Furniture,2,12000,0,0.0,24000.0,13959.89,10040.11,EMI,Mobile App
+ORD-202401-1025,20-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P021,Novel - Fiction,Books,4,450,20,360.0,1440.0,961.4,478.6,EMI,Online
+ORD-202401-1026,22-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P016,Mixer Grinder,Appliances,2,4200,0,0.0,8400.0,4501.96,3898.04,UPI,Mobile App
+ORD-202401-1027,16-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P016,Mixer Grinder,Appliances,2,4200,5,420.0,7980.0,4291.18,3688.82,Net Banking,Online
+ORD-202401-1028,15-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P003,Tablet,Electronics,1,25000,15,3750.0,21250.0,14779.97,6470.03,UPI,Mobile App
+ORD-202401-1029,01-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P001,Laptop,Electronics,3,45000,0,0.0,135000.0,78664.32,56335.68,Debit Card,Reseller
+ORD-202401-1030,15-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P004,Headphones,Electronics,4,3500,10,1400.0,12600.0,8465.96,4134.04,UPI,Store
+ORD-202401-1031,26-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P020,Electric Kettle,Appliances,2,1800,0,0.0,3600.0,2471.88,1128.12,EMI,Mobile App
+ORD-202401-1032,03-01-2024,C008,Ananya Nair,Kochi,Kerala,P022,Business Book,Books,3,650,5,97.5,1852.5,1230.65,621.85,EMI,Mobile App
+ORD-202401-1033,19-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P010,Wardrobe,Furniture,3,35000,15,15750.0,89250.0,58107.34,31142.66,Cash on Delivery,Store
+ORD-202401-1034,15-01-2024,C008,Ananya Nair,Kochi,Kerala,P008,Bookshelf,Furniture,1,6000,0,0.0,6000.0,4009.35,1990.65,Credit Card,Online
+ORD-202401-1035,25-01-2024,C005,Rajesh Gupta,Chennai,Tamil Nadu,P015,Jacket,Clothing,4,3800,0,0.0,15200.0,8151.87,7048.13,Debit Card,Store
+ORD-202401-1036,09-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P012,Jeans,Clothing,4,2500,0,0.0,10000.0,5827.89,4172.11,Net Banking,Online
+ORD-202401-1037,10-01-2024,C008,Ananya Nair,Kochi,Kerala,P001,Laptop,Electronics,3,45000,0,0.0,135000.0,74367.71,60632.29,EMI,Mobile App
+ORD-202401-1038,07-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P025,Board Game,Toys,3,2200,0,0.0,6600.0,3531.66,3068.34,Net Banking,Mobile App
+ORD-202401-1039,03-01-2024,C015,Suresh Pillai,Thiruvananthapuram,Maharashtra,P024,Kids Activity Kit,Toys,1,1200,20,240.0,960.0,620.65,339.35,EMI,Reseller
+ORD-202401-1040,02-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P024,Kids Activity Kit,Toys,1,1200,0,0.0,1200.0,666.38,533.62,Credit Card,Reseller
+ORD-202401-1041,04-01-2024,C002,Priya Mehta,Delhi,Delhi,P004,Headphones,Electronics,3,3500,0,0.0,10500.0,6741.47,3758.53,Credit Card,Online
+ORD-202401-1042,12-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P017,Microwave,Appliances,4,8500,10,3400.0,30600.0,16389.13,14210.87,EMI,Online
+ORD-202401-1043,14-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P020,Electric Kettle,Appliances,2,1800,20,720.0,2880.0,1560.3,1319.7,Net Banking,Mobile App
+ORD-202401-1044,15-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P002,Smartphone,Electronics,3,18000,15,8100.0,45900.0,31409.94,14490.06,Net Banking,Online
+ORD-202401-1045,12-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P006,Office Chair,Furniture,2,12000,10,2400.0,21600.0,12394.08,9205.92,EMI,Store
+ORD-202401-1046,06-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P017,Microwave,Appliances,4,8500,20,6800.0,27200.0,16920.98,10279.02,Debit Card,Store
+ORD-202401-1047,09-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P005,Smartwatch,Electronics,3,8000,10,2400.0,21600.0,12063.03,9536.97,Credit Card,Online
+ORD-202401-1048,04-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P004,Headphones,Electronics,3,3500,10,1050.0,9450.0,4922.26,4527.74,Net Banking,Reseller
+ORD-202401-1049,06-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P018,Air Purifier,Appliances,3,12000,0,0.0,36000.0,20223.26,15776.74,EMI,Mobile App
+ORD-202401-1050,20-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P004,Headphones,Electronics,2,3500,15,1050.0,5950.0,3551.29,2398.71,EMI,Store
+ORD-202401-1051,03-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P007,Study Table,Furniture,4,8500,15,5100.0,28900.0,20031.48,8868.52,EMI,Store
+ORD-202401-1052,03-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P013,Sneakers,Clothing,2,4500,15,1350.0,7650.0,4787.18,2862.82,Net Banking,Store
+ORD-202401-1053,21-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P004,Headphones,Electronics,2,3500,5,350.0,6650.0,3899.48,2750.52,Credit Card,Store
+ORD-202401-1054,22-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P012,Jeans,Clothing,4,2500,20,2000.0,8000.0,5356.83,2643.17,Credit Card,Store
+ORD-202401-1055,03-01-2024,C002,Priya Mehta,Delhi,Delhi,P010,Wardrobe,Furniture,2,35000,15,10500.0,59500.0,37181.11,22318.89,UPI,Store
+ORD-202401-1056,16-01-2024,C002,Priya Mehta,Delhi,Delhi,P022,Business Book,Books,2,650,0,0.0,1300.0,881.07,418.93,Cash on Delivery,Store
+ORD-202401-1057,13-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P003,Tablet,Electronics,3,25000,20,15000.0,60000.0,40769.36,19230.64,EMI,Store
+ORD-202401-1058,06-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P011,Cotton Shirt,Clothing,4,1200,20,960.0,3840.0,1968.96,1871.04,Credit Card,Online
+ORD-202401-1059,02-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P003,Tablet,Electronics,1,25000,0,0.0,25000.0,17399.97,7600.03,UPI,Reseller
+ORD-202401-1060,03-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P013,Sneakers,Clothing,4,4500,5,900.0,17100.0,9151.64,7948.36,Cash on Delivery,Online
+ORD-202401-1061,15-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P007,Study Table,Furniture,1,8500,0,0.0,8500.0,5349.61,3150.39,Credit Card,Online
+ORD-202401-1062,19-01-2024,C008,Ananya Nair,Kochi,Kerala,P002,Smartphone,Electronics,3,18000,0,0.0,54000.0,33207.4,20792.6,Debit Card,Store
+ORD-202401-1063,22-01-2024,C008,Ananya Nair,Kochi,Kerala,P006,Office Chair,Furniture,1,12000,20,2400.0,9600.0,6488.6,3111.4,EMI,Store
+ORD-202401-1064,25-01-2024,C008,Ananya Nair,Kochi,Kerala,P023,Self Help Book,Books,1,550,0,0.0,550.0,290.79,259.21,Net Banking,Online
+ORD-202401-1065,02-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P023,Self Help Book,Books,4,550,0,0.0,2200.0,1393.68,806.32,Debit Card,Store
+ORD-202401-1066,10-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P010,Wardrobe,Furniture,1,35000,20,7000.0,28000.0,17148.46,10851.54,EMI,Mobile App
+ORD-202401-1067,27-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P001,Laptop,Electronics,3,45000,10,13500.0,121500.0,70561.34,50938.66,Net Banking,Reseller
+ORD-202401-1068,02-01-2024,C008,Ananya Nair,Kochi,Kerala,P015,Jacket,Clothing,3,3800,5,570.0,10830.0,6614.9,4215.1,Net Banking,Reseller
+ORD-202401-1069,24-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P013,Sneakers,Clothing,3,4500,0,0.0,13500.0,8633.33,4866.67,Cash on Delivery,Online
+ORD-202401-1070,11-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P019,Vacuum Cleaner,Appliances,2,6500,0,0.0,13000.0,8602.29,4397.71,Debit Card,Store
+ORD-202401-1071,07-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P015,Jacket,Clothing,4,3800,0,0.0,15200.0,8131.1,7068.9,Cash on Delivery,Reseller
+ORD-202401-1072,26-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P007,Study Table,Furniture,2,8500,0,0.0,17000.0,11712.34,5287.66,UPI,Mobile App
+ORD-202401-1073,11-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P013,Sneakers,Clothing,2,4500,20,1800.0,7200.0,4792.39,2407.61,Cash on Delivery,Mobile App
+ORD-202401-1074,03-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P023,Self Help Book,Books,2,550,15,165.0,935.0,584.4,350.6,UPI,Reseller
+ORD-202401-1075,04-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P008,Bookshelf,Furniture,4,6000,20,4800.0,19200.0,13412.0,5788.0,Net Banking,Mobile App
+ORD-202401-1076,05-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P006,Office Chair,Furniture,3,12000,0,0.0,36000.0,22958.92,13041.08,Net Banking,Mobile App
+ORD-202401-1077,22-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P019,Vacuum Cleaner,Appliances,4,6500,20,5200.0,20800.0,13214.2,7585.8,Credit Card,Mobile App
+ORD-202401-1078,11-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P003,Tablet,Electronics,1,25000,0,0.0,25000.0,15567.73,9432.27,Debit Card,Mobile App
+ORD-202401-1079,04-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P019,Vacuum Cleaner,Appliances,3,6500,0,0.0,19500.0,10331.17,9168.83,Cash on Delivery,Reseller
+ORD-202401-1080,23-01-2024,C015,Suresh Pillai,Thiruvananthapuram,Maharashtra,P025,Board Game,Toys,2,2200,0,0.0,4400.0,2455.57,1944.43,Net Banking,Store
+ORD-202401-1081,09-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P008,Bookshelf,Furniture,2,6000,0,0.0,12000.0,6459.1,5540.9,Net Banking,Mobile App
+ORD-202401-1082,11-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P011,Cotton Shirt,Clothing,1,1200,0,0.0,1200.0,721.89,478.11,UPI,Reseller
+ORD-202401-1083,13-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P018,Air Purifier,Appliances,3,12000,10,3600.0,32400.0,21862.4,10537.6,Net Banking,Mobile App
+ORD-202401-1084,06-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P002,Smartphone,Electronics,4,18000,0,0.0,72000.0,48251.83,23748.17,Debit Card,Mobile App
+ORD-202401-1085,05-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P018,Air Purifier,Appliances,4,12000,10,4800.0,43200.0,27347.21,15852.79,Cash on Delivery,Reseller
+ORD-202401-1086,09-01-2024,C008,Ananya Nair,Kochi,Kerala,P020,Electric Kettle,Appliances,1,1800,5,90.0,1710.0,935.64,774.36,Credit Card,Store
+ORD-202401-1087,08-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P003,Tablet,Electronics,1,25000,0,0.0,25000.0,16836.4,8163.6,Net Banking,Store
+ORD-202401-1088,13-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P007,Study Table,Furniture,4,8500,0,0.0,34000.0,23285.07,10714.93,Credit Card,Online
+ORD-202401-1089,28-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P009,Bed Frame,Furniture,2,22000,0,0.0,44000.0,28742.76,15257.24,Credit Card,Mobile App
+ORD-202401-1090,28-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P005,Smartwatch,Electronics,2,8000,5,800.0,15200.0,8916.52,6283.48,Cash on Delivery,Reseller
+ORD-202401-1091,20-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P024,Kids Activity Kit,Toys,4,1200,15,720.0,4080.0,2102.17,1977.83,Net Banking,Online
+ORD-202401-1092,04-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P017,Microwave,Appliances,2,8500,15,2550.0,14450.0,10070.26,4379.74,EMI,Mobile App
+ORD-202401-1093,16-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P009,Bed Frame,Furniture,2,22000,0,0.0,44000.0,22672.33,21327.67,Cash on Delivery,Mobile App
+ORD-202401-1094,08-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P002,Smartphone,Electronics,4,18000,20,14400.0,57600.0,39988.17,17611.83,Net Banking,Store
+ORD-202401-1095,16-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P015,Jacket,Clothing,1,3800,0,0.0,3800.0,2317.3,1482.7,Cash on Delivery,Online
+ORD-202401-1096,17-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P019,Vacuum Cleaner,Appliances,3,6500,20,3900.0,15600.0,10512.17,5087.83,Credit Card,Store
+ORD-202401-1097,01-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P008,Bookshelf,Furniture,2,6000,5,600.0,11400.0,7081.49,4318.51,EMI,Reseller
+ORD-202401-1098,06-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P018,Air Purifier,Appliances,1,12000,15,1800.0,10200.0,6909.81,3290.19,UPI,Reseller
+ORD-202401-1099,27-01-2024,C008,Ananya Nair,Kochi,Kerala,P023,Self Help Book,Books,3,550,0,0.0,1650.0,955.27,694.73,Credit Card,Reseller
+ORD-202401-1100,09-01-2024,C002,Priya Mehta,Delhi,Delhi,P006,Office Chair,Furniture,1,12000,0,0.0,12000.0,8105.63,3894.37,Debit Card,Reseller
+ORD-202401-1101,02-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P002,Smartphone,Electronics,2,18000,5,1800.0,34200.0,22933.74,11266.26,Cash on Delivery,Reseller
+ORD-202401-1102,21-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P018,Air Purifier,Appliances,3,12000,20,7200.0,28800.0,19368.28,9431.72,EMI,Mobile App
+ORD-202401-1103,14-01-2024,C002,Priya Mehta,Delhi,Delhi,P023,Self Help Book,Books,4,550,5,110.0,2090.0,1347.13,742.87,Debit Card,Store
+ORD-202401-1104,14-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P018,Air Purifier,Appliances,2,12000,5,1200.0,22800.0,14475.86,8324.14,Cash on Delivery,Online
+ORD-202401-1105,06-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P024,Kids Activity Kit,Toys,3,1200,15,540.0,3060.0,1964.3,1095.7,EMI,Reseller
+ORD-202401-1106,04-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P014,Formal Shoes,Clothing,1,6000,5,300.0,5700.0,3407.81,2292.19,Net Banking,Online
+ORD-202401-1107,21-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P007,Study Table,Furniture,4,8500,10,3400.0,30600.0,17400.3,13199.7,Cash on Delivery,Store
+ORD-202401-1108,21-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P010,Wardrobe,Furniture,3,35000,15,15750.0,89250.0,62012.83,27237.17,Debit Card,Reseller
+ORD-202401-1109,12-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P020,Electric Kettle,Appliances,3,1800,15,810.0,4590.0,2687.8,1902.2,Cash on Delivery,Store
+ORD-202401-1110,24-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P005,Smartwatch,Electronics,1,8000,0,0.0,8000.0,4855.87,3144.13,Net Banking,Reseller
+ORD-202401-1111,19-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P019,Vacuum Cleaner,Appliances,3,6500,0,0.0,19500.0,11012.14,8487.86,UPI,Reseller
+ORD-202401-1112,17-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P023,Self Help Book,Books,3,550,15,247.5,1402.5,927.36,475.14,Net Banking,Mobile App
+ORD-202401-1113,18-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P004,Headphones,Electronics,2,3500,15,1050.0,5950.0,3899.13,2050.87,Cash on Delivery,Online
+ORD-202401-1114,02-01-2024,C008,Ananya Nair,Kochi,Kerala,P001,Laptop,Electronics,3,45000,0,0.0,135000.0,87800.08,47199.92,Credit Card,Mobile App
+ORD-202401-1115,05-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P023,Self Help Book,Books,1,550,0,0.0,550.0,293.02,256.98,EMI,Store
+ORD-202401-1116,19-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P004,Headphones,Electronics,2,3500,15,1050.0,5950.0,3064.51,2885.49,UPI,Online
+ORD-202401-1117,25-01-2024,C005,Rajesh Gupta,Chennai,Tamil Nadu,P023,Self Help Book,Books,4,550,20,440.0,1760.0,960.5,799.5,Debit Card,Mobile App
+ORD-202401-1118,08-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P003,Tablet,Electronics,1,25000,5,1250.0,23750.0,16397.33,7352.67,Cash on Delivery,Store
+ORD-202401-1119,02-01-2024,C015,Suresh Pillai,Thiruvananthapuram,Maharashtra,P015,Jacket,Clothing,4,3800,0,0.0,15200.0,9195.17,6004.83,Cash on Delivery,Reseller
+ORD-202401-1120,05-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P022,Business Book,Books,2,650,0,0.0,1300.0,694.55,605.45,EMI,Store
+ORD-202401-1121,19-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P024,Kids Activity Kit,Toys,4,1200,20,960.0,3840.0,2428.45,1411.55,Debit Card,Reseller
+ORD-202401-1122,27-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P022,Business Book,Books,1,650,0,0.0,650.0,421.33,228.67,Debit Card,Reseller
+ORD-202401-1123,08-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P007,Study Table,Furniture,1,8500,0,0.0,8500.0,5191.28,3308.72,UPI,Reseller
+ORD-202401-1124,20-01-2024,C005,Rajesh Gupta,Chennai,Tamil Nadu,P010,Wardrobe,Furniture,1,35000,5,1750.0,33250.0,17562.75,15687.25,Credit Card,Store
+ORD-202401-1125,26-01-2024,C002,Priya Mehta,Delhi,Delhi,P006,Office Chair,Furniture,1,12000,0,0.0,12000.0,6482.88,5517.12,Debit Card,Store
+ORD-202401-1126,20-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P020,Electric Kettle,Appliances,2,1800,5,180.0,3420.0,1795.81,1624.19,EMI,Store
+ORD-202401-1127,09-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P001,Laptop,Electronics,2,45000,0,0.0,90000.0,52474.63,37525.37,EMI,Online
+ORD-202401-1128,16-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P022,Business Book,Books,3,650,0,0.0,1950.0,1301.63,648.37,Net Banking,Online
+ORD-202401-1129,16-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P010,Wardrobe,Furniture,3,35000,15,15750.0,89250.0,56834.98,32415.02,Debit Card,Reseller
+ORD-202401-1130,09-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P011,Cotton Shirt,Clothing,3,1200,0,0.0,3600.0,2229.58,1370.42,EMI,Store
+ORD-202401-1131,28-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P007,Study Table,Furniture,4,8500,0,0.0,34000.0,20918.29,13081.71,EMI,Online
+ORD-202401-1132,25-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P002,Smartphone,Electronics,3,18000,0,0.0,54000.0,32660.86,21339.14,Cash on Delivery,Store
+ORD-202401-1133,08-01-2024,C005,Rajesh Gupta,Chennai,Tamil Nadu,P014,Formal Shoes,Clothing,3,6000,10,1800.0,16200.0,11136.71,5063.29,EMI,Store
+ORD-202401-1134,17-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P007,Study Table,Furniture,2,8500,0,0.0,17000.0,9848.41,7151.59,EMI,Reseller
+ORD-202401-1135,03-01-2024,C002,Priya Mehta,Delhi,Delhi,P017,Microwave,Appliances,4,8500,0,0.0,34000.0,20445.73,13554.27,Debit Card,Reseller
+ORD-202401-1136,02-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P012,Jeans,Clothing,2,2500,0,0.0,5000.0,2989.06,2010.94,UPI,Reseller
+ORD-202401-1137,04-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P025,Board Game,Toys,4,2200,0,0.0,8800.0,5341.01,3458.99,UPI,Mobile App
+ORD-202401-1138,19-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P022,Business Book,Books,4,650,0,0.0,2600.0,1536.24,1063.76,EMI,Store
+ORD-202401-1139,06-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P006,Office Chair,Furniture,3,12000,0,0.0,36000.0,24572.56,11427.44,Cash on Delivery,Online
+ORD-202401-1140,26-01-2024,C015,Suresh Pillai,Thiruvananthapuram,Maharashtra,P003,Tablet,Electronics,2,25000,20,10000.0,40000.0,25859.71,14140.29,Cash on Delivery,Mobile App
+ORD-202401-1141,03-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P010,Wardrobe,Furniture,1,35000,10,3500.0,31500.0,15904.16,15595.84,Debit Card,Online
+ORD-202401-1142,06-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P005,Smartwatch,Electronics,4,8000,0,0.0,32000.0,19306.85,12693.15,UPI,Store
+ORD-202401-1143,07-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P004,Headphones,Electronics,1,3500,0,0.0,3500.0,2152.49,1347.51,Debit Card,Mobile App
+ORD-202401-1144,27-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P002,Smartphone,Electronics,3,18000,0,0.0,54000.0,30736.73,23263.27,Credit Card,Online
+ORD-202401-1145,15-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P006,Office Chair,Furniture,2,12000,0,0.0,24000.0,16051.58,7948.42,Cash on Delivery,Store
+ORD-202401-1146,08-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P007,Study Table,Furniture,2,8500,0,0.0,17000.0,8566.81,8433.19,Debit Card,Store
+ORD-202401-1147,18-01-2024,C008,Ananya Nair,Kochi,Kerala,P013,Sneakers,Clothing,3,4500,0,0.0,13500.0,8715.87,4784.13,EMI,Reseller
+ORD-202401-1148,11-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P001,Laptop,Electronics,3,45000,0,0.0,135000.0,92878.21,42121.79,EMI,Reseller
+ORD-202401-1149,26-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P025,Board Game,Toys,4,2200,15,1320.0,7480.0,4870.3,2609.7,EMI,Store
+ORD-202401-1150,23-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P025,Board Game,Toys,1,2200,10,220.0,1980.0,1249.69,730.31,Net Banking,Online
+ORD-202401-1151,02-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P017,Microwave,Appliances,3,8500,0,0.0,25500.0,13842.67,11657.33,Cash on Delivery,Reseller
+ORD-202401-1152,08-01-2024,C002,Priya Mehta,Delhi,Delhi,P017,Microwave,Appliances,1,8500,0,0.0,8500.0,5805.02,2694.98,Cash on Delivery,Reseller
+ORD-202401-1153,20-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P004,Headphones,Electronics,3,3500,0,0.0,10500.0,5412.45,5087.55,Credit Card,Online
+ORD-202401-1154,22-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P017,Microwave,Appliances,2,8500,20,3400.0,13600.0,8966.82,4633.18,UPI,Online
+ORD-202401-1155,09-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P004,Headphones,Electronics,4,3500,0,0.0,14000.0,8893.78,5106.22,UPI,Mobile App
+ORD-202401-1156,07-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P004,Headphones,Electronics,4,3500,15,2100.0,11900.0,7648.74,4251.26,EMI,Mobile App
+ORD-202401-1157,16-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P023,Self Help Book,Books,2,550,0,0.0,1100.0,612.79,487.21,Net Banking,Mobile App
+ORD-202401-1158,25-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P003,Tablet,Electronics,3,25000,0,0.0,75000.0,38749.96,36250.04,UPI,Online
+ORD-202401-1159,07-01-2024,C015,Suresh Pillai,Thiruvananthapuram,Maharashtra,P020,Electric Kettle,Appliances,3,1800,0,0.0,5400.0,2766.96,2633.04,EMI,Reseller
+ORD-202401-1160,25-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P016,Mixer Grinder,Appliances,2,4200,0,0.0,8400.0,5143.39,3256.61,Net Banking,Mobile App
+ORD-202401-1161,22-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P018,Air Purifier,Appliances,3,12000,0,0.0,36000.0,19704.96,16295.04,Net Banking,Online
+ORD-202401-1162,23-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P022,Business Book,Books,2,650,0,0.0,1300.0,906.94,393.06,Credit Card,Online
+ORD-202401-1163,13-01-2024,C005,Rajesh Gupta,Chennai,Tamil Nadu,P009,Bed Frame,Furniture,4,22000,0,0.0,88000.0,49266.08,38733.92,EMI,Reseller
+ORD-202401-1164,04-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P014,Formal Shoes,Clothing,1,6000,10,600.0,5400.0,3747.8,1652.2,Credit Card,Reseller
+ORD-202401-1165,08-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P017,Microwave,Appliances,4,8500,10,3400.0,30600.0,15352.11,15247.89,EMI,Mobile App
+ORD-202401-1166,09-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P004,Headphones,Electronics,4,3500,15,2100.0,11900.0,6837.09,5062.91,Debit Card,Online
+ORD-202401-1167,16-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P024,Kids Activity Kit,Toys,1,1200,20,240.0,960.0,585.62,374.38,Net Banking,Mobile App
+ORD-202401-1168,20-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P006,Office Chair,Furniture,4,12000,20,9600.0,38400.0,23829.31,14570.69,EMI,Online
+ORD-202401-1169,26-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P006,Office Chair,Furniture,3,12000,0,0.0,36000.0,20642.93,15357.07,Cash on Delivery,Mobile App
+ORD-202401-1170,18-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P015,Jacket,Clothing,2,3800,5,380.0,7220.0,4872.92,2347.08,UPI,Store
+ORD-202401-1171,27-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P009,Bed Frame,Furniture,2,22000,0,0.0,44000.0,29853.59,14146.41,Net Banking,Store
+ORD-202401-1172,04-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P016,Mixer Grinder,Appliances,4,4200,0,0.0,16800.0,10012.48,6787.52,Debit Card,Reseller
+ORD-202401-1173,13-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P008,Bookshelf,Furniture,3,6000,15,2700.0,15300.0,8979.07,6320.93,Net Banking,Store
+ORD-202401-1174,12-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P014,Formal Shoes,Clothing,1,6000,10,600.0,5400.0,2724.26,2675.74,Credit Card,Store
+ORD-202401-1175,03-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P024,Kids Activity Kit,Toys,3,1200,15,540.0,3060.0,1836.29,1223.71,EMI,Store
+ORD-202401-1176,10-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P008,Bookshelf,Furniture,1,6000,5,300.0,5700.0,3098.57,2601.43,UPI,Online
+ORD-202401-1177,15-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P007,Study Table,Furniture,2,8500,20,3400.0,13600.0,8578.11,5021.89,Cash on Delivery,Online
+ORD-202401-1178,13-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P001,Laptop,Electronics,2,45000,5,4500.0,85500.0,48424.63,37075.37,Net Banking,Online
+ORD-202401-1179,23-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P012,Jeans,Clothing,1,2500,10,250.0,2250.0,1313.41,936.59,Net Banking,Store
+ORD-202401-1180,03-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P019,Vacuum Cleaner,Appliances,2,6500,0,0.0,13000.0,7646.85,5353.15,Debit Card,Store
+ORD-202401-1181,06-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P011,Cotton Shirt,Clothing,4,1200,10,480.0,4320.0,2267.77,2052.23,Cash on Delivery,Mobile App
+ORD-202401-1182,11-01-2024,C008,Ananya Nair,Kochi,Kerala,P021,Novel - Fiction,Books,4,450,5,90.0,1710.0,1092.42,617.58,Debit Card,Reseller
+ORD-202401-1183,16-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P006,Office Chair,Furniture,4,12000,10,4800.0,43200.0,22360.7,20839.3,Net Banking,Online
+ORD-202401-1184,12-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P010,Wardrobe,Furniture,3,35000,0,0.0,105000.0,55270.11,49729.89,Net Banking,Reseller
+ORD-202401-1185,26-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P014,Formal Shoes,Clothing,3,6000,0,0.0,18000.0,10893.69,7106.31,Net Banking,Online
+ORD-202401-1186,21-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P020,Electric Kettle,Appliances,3,1800,5,270.0,5130.0,2833.2,2296.8,Credit Card,Online
+ORD-202401-1187,14-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P004,Headphones,Electronics,4,3500,10,1400.0,12600.0,6625.44,5974.56,Debit Card,Reseller
+ORD-202401-1188,05-01-2024,C002,Priya Mehta,Delhi,Delhi,P013,Sneakers,Clothing,3,4500,15,2025.0,11475.0,6221.43,5253.57,Debit Card,Mobile App
+ORD-202401-1189,06-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P016,Mixer Grinder,Appliances,3,4200,0,0.0,12600.0,8701.56,3898.44,Net Banking,Online
+ORD-202401-1190,03-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P009,Bed Frame,Furniture,4,22000,0,0.0,88000.0,61146.67,26853.33,Net Banking,Reseller
+ORD-202401-1191,10-01-2024,C002,Priya Mehta,Delhi,Delhi,P023,Self Help Book,Books,4,550,0,0.0,2200.0,1243.43,956.57,Credit Card,Mobile App
+ORD-202401-1192,21-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P007,Study Table,Furniture,2,8500,20,3400.0,13600.0,8253.6,5346.4,Cash on Delivery,Reseller
+ORD-202401-1193,01-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P016,Mixer Grinder,Appliances,2,4200,0,0.0,8400.0,4586.05,3813.95,UPI,Reseller
+ORD-202401-1194,28-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P014,Formal Shoes,Clothing,4,6000,0,0.0,24000.0,12205.43,11794.57,Debit Card,Store
+ORD-202401-1195,14-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P024,Kids Activity Kit,Toys,4,1200,5,240.0,4560.0,2773.44,1786.56,Credit Card,Store
+ORD-202401-1196,04-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P020,Electric Kettle,Appliances,3,1800,0,0.0,5400.0,3249.99,2150.01,Credit Card,Online
+ORD-202401-1197,18-01-2024,C002,Priya Mehta,Delhi,Delhi,P023,Self Help Book,Books,3,550,0,0.0,1650.0,861.29,788.71,Cash on Delivery,Reseller
+ORD-202401-1198,26-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P016,Mixer Grinder,Appliances,2,4200,5,420.0,7980.0,4076.45,3903.55,Debit Card,Online
+ORD-202401-1199,01-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P012,Jeans,Clothing,1,2500,10,250.0,2250.0,1323.72,926.28,EMI,Reseller
+ORD-202401-1200,10-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P006,Office Chair,Furniture,3,12000,10,3600.0,32400.0,19771.18,12628.82,Net Banking,Mobile App
+ORD-202401-1201,26-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P025,Board Game,Toys,3,2200,0,0.0,6600.0,4020.43,2579.57,Net Banking,Mobile App
+ORD-202401-1202,15-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P019,Vacuum Cleaner,Appliances,2,6500,20,2600.0,10400.0,6761.71,3638.29,UPI,Mobile App
+ORD-202401-1203,20-01-2024,C008,Ananya Nair,Kochi,Kerala,P003,Tablet,Electronics,4,25000,15,15000.0,85000.0,58937.04,26062.96,Debit Card,Store
+ORD-202401-1204,26-01-2024,C002,Priya Mehta,Delhi,Delhi,P023,Self Help Book,Books,3,550,20,330.0,1320.0,876.71,443.29,Debit Card,Reseller
+ORD-202401-1205,25-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P018,Air Purifier,Appliances,2,12000,20,4800.0,19200.0,10658.03,8541.97,Debit Card,Online
+ORD-202401-1206,20-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P011,Cotton Shirt,Clothing,4,1200,15,720.0,4080.0,2115.85,1964.15,Cash on Delivery,Store
+ORD-202401-1207,20-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P009,Bed Frame,Furniture,2,22000,15,6600.0,37400.0,19920.54,17479.46,Credit Card,Store
+ORD-202401-1208,15-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P005,Smartwatch,Electronics,3,8000,0,0.0,24000.0,12597.67,11402.33,EMI,Store
+ORD-202401-1209,11-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P008,Bookshelf,Furniture,3,6000,0,0.0,18000.0,12180.59,5819.41,Credit Card,Store
+ORD-202401-1210,17-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P002,Smartphone,Electronics,4,18000,0,0.0,72000.0,48990.48,23009.52,Net Banking,Online
+ORD-202401-1211,25-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P005,Smartwatch,Electronics,3,8000,5,1200.0,22800.0,12258.34,10541.66,Cash on Delivery,Store
+ORD-202401-1212,10-01-2024,C002,Priya Mehta,Delhi,Delhi,P020,Electric Kettle,Appliances,4,1800,5,360.0,6840.0,4476.16,2363.84,Net Banking,Reseller
+ORD-202401-1213,07-01-2024,C005,Rajesh Gupta,Chennai,Tamil Nadu,P021,Novel - Fiction,Books,3,450,10,135.0,1215.0,805.6,409.4,Net Banking,Reseller
+ORD-202401-1214,10-01-2024,C002,Priya Mehta,Delhi,Delhi,P018,Air Purifier,Appliances,1,12000,0,0.0,12000.0,6262.35,5737.65,UPI,Mobile App
+ORD-202401-1215,08-01-2024,C005,Rajesh Gupta,Chennai,Tamil Nadu,P013,Sneakers,Clothing,3,4500,0,0.0,13500.0,8776.42,4723.58,EMI,Online
+ORD-202401-1216,26-01-2024,C008,Ananya Nair,Kochi,Kerala,P022,Business Book,Books,2,650,20,260.0,1040.0,648.7,391.3,Cash on Delivery,Mobile App
+ORD-202401-1217,16-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P023,Self Help Book,Books,4,550,0,0.0,2200.0,1490.58,709.42,UPI,Store
+ORD-202401-1218,10-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P005,Smartwatch,Electronics,4,8000,15,4800.0,27200.0,17071.29,10128.71,EMI,Store
+ORD-202401-1219,24-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P021,Novel - Fiction,Books,4,450,0,0.0,1800.0,1210.45,589.55,UPI,Reseller
+ORD-202401-1220,14-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P022,Business Book,Books,3,650,15,292.5,1657.5,1061.78,595.72,UPI,Mobile App
+ORD-202401-1221,15-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P006,Office Chair,Furniture,2,12000,0,0.0,24000.0,15157.14,8842.86,Credit Card,Online
+ORD-202401-1222,12-01-2024,C008,Ananya Nair,Kochi,Kerala,P010,Wardrobe,Furniture,1,35000,0,0.0,35000.0,20877.3,14122.7,Net Banking,Reseller
+ORD-202401-1223,09-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P021,Novel - Fiction,Books,1,450,20,90.0,360.0,242.29,117.71,Net Banking,Store
+ORD-202401-1224,18-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P002,Smartphone,Electronics,1,18000,0,0.0,18000.0,9999.57,8000.43,Credit Card,Reseller
+ORD-202401-1225,07-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P012,Jeans,Clothing,2,2500,20,1000.0,4000.0,2131.85,1868.15,Debit Card,Online
+ORD-202401-1226,09-01-2024,C005,Rajesh Gupta,Chennai,Tamil Nadu,P020,Electric Kettle,Appliances,4,1800,0,0.0,7200.0,5011.37,2188.63,Net Banking,Mobile App
+ORD-202401-1227,09-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P020,Electric Kettle,Appliances,3,1800,5,270.0,5130.0,3470.21,1659.79,Cash on Delivery,Mobile App
+ORD-202401-1228,07-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P004,Headphones,Electronics,2,3500,10,700.0,6300.0,3787.78,2512.22,Debit Card,Store
+ORD-202401-1229,25-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P015,Jacket,Clothing,1,3800,20,760.0,3040.0,1681.09,1358.91,Credit Card,Online
+ORD-202401-1230,19-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P003,Tablet,Electronics,1,25000,20,5000.0,20000.0,10511.07,9488.93,Debit Card,Store
+ORD-202401-1231,15-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P025,Board Game,Toys,3,2200,10,660.0,5940.0,3892.71,2047.29,Cash on Delivery,Store
+ORD-202401-1232,02-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P014,Formal Shoes,Clothing,4,6000,15,3600.0,20400.0,12929.75,7470.25,EMI,Mobile App
+ORD-202401-1233,24-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P001,Laptop,Electronics,2,45000,10,9000.0,81000.0,54313.9,26686.1,Net Banking,Mobile App
+ORD-202401-1234,28-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P013,Sneakers,Clothing,3,4500,0,0.0,13500.0,8379.56,5120.44,Cash on Delivery,Store
+ORD-202401-1235,08-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P017,Microwave,Appliances,4,8500,10,3400.0,30600.0,17298.39,13301.61,Debit Card,Online
+ORD-202401-1236,15-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P020,Electric Kettle,Appliances,4,1800,15,1080.0,6120.0,4127.72,1992.28,Credit Card,Online
+ORD-202401-1237,24-01-2024,C008,Ananya Nair,Kochi,Kerala,P020,Electric Kettle,Appliances,1,1800,0,0.0,1800.0,1025.19,774.81,Net Banking,Store
+ORD-202401-1238,26-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P007,Study Table,Furniture,1,8500,10,850.0,7650.0,3958.11,3691.89,Debit Card,Online
+ORD-202401-1239,11-01-2024,C002,Priya Mehta,Delhi,Delhi,P020,Electric Kettle,Appliances,4,1800,5,360.0,6840.0,4233.59,2606.41,Debit Card,Store
+ORD-202401-1240,03-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P021,Novel - Fiction,Books,1,450,20,90.0,360.0,197.3,162.7,Cash on Delivery,Reseller
+ORD-202401-1241,23-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P007,Study Table,Furniture,3,8500,10,2550.0,22950.0,11771.45,11178.55,Net Banking,Reseller
+ORD-202401-1242,16-01-2024,C008,Ananya Nair,Kochi,Kerala,P007,Study Table,Furniture,1,8500,0,0.0,8500.0,5632.65,2867.35,Credit Card,Reseller
+ORD-202401-1243,04-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P010,Wardrobe,Furniture,2,35000,10,7000.0,63000.0,36473.34,26526.66,Net Banking,Mobile App
+ORD-202401-1244,13-01-2024,C015,Suresh Pillai,Thiruvananthapuram,Maharashtra,P017,Microwave,Appliances,2,8500,20,3400.0,13600.0,8182.31,5417.69,UPI,Online
+ORD-202401-1245,25-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P003,Tablet,Electronics,1,25000,0,0.0,25000.0,16399.16,8600.84,Credit Card,Store
+ORD-202401-1246,28-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P004,Headphones,Electronics,3,3500,0,0.0,10500.0,7311.32,3188.68,Net Banking,Mobile App
+ORD-202401-1247,06-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P003,Tablet,Electronics,1,25000,0,0.0,25000.0,15854.93,9145.07,EMI,Mobile App
+ORD-202401-1248,01-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P015,Jacket,Clothing,1,3800,15,570.0,3230.0,1917.33,1312.67,Debit Card,Store
+ORD-202401-1249,20-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P005,Smartwatch,Electronics,1,8000,0,0.0,8000.0,5079.13,2920.87,UPI,Reseller
+ORD-202401-1250,28-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P007,Study Table,Furniture,3,8500,20,5100.0,20400.0,12477.3,7922.7,Credit Card,Online
+ORD-202401-1251,14-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P009,Bed Frame,Furniture,4,22000,5,4400.0,83600.0,50979.35,32620.65,UPI,Reseller
+ORD-202401-1252,10-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P021,Novel - Fiction,Books,3,450,15,202.5,1147.5,638.46,509.04,EMI,Reseller
+ORD-202401-1253,25-01-2024,C002,Priya Mehta,Delhi,Delhi,P007,Study Table,Furniture,3,8500,20,5100.0,20400.0,13010.61,7389.39,Net Banking,Online
+ORD-202401-1254,19-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P004,Headphones,Electronics,1,3500,15,525.0,2975.0,1589.07,1385.93,Cash on Delivery,Store
+ORD-202401-1255,13-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P021,Novel - Fiction,Books,1,450,5,22.5,427.5,266.44,161.06,Debit Card,Mobile App
+ORD-202401-1256,16-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P006,Office Chair,Furniture,3,12000,0,0.0,36000.0,20567.81,15432.19,UPI,Online
+ORD-202401-1257,19-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P018,Air Purifier,Appliances,2,12000,5,1200.0,22800.0,12544.45,10255.55,Credit Card,Mobile App
+ORD-202401-1258,04-01-2024,C015,Suresh Pillai,Thiruvananthapuram,Maharashtra,P007,Study Table,Furniture,1,8500,10,850.0,7650.0,4808.12,2841.88,Debit Card,Online
+ORD-202401-1259,14-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P007,Study Table,Furniture,2,8500,0,0.0,17000.0,11748.39,5251.61,Net Banking,Store
+ORD-202401-1260,17-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P023,Self Help Book,Books,3,550,0,0.0,1650.0,848.18,801.82,Net Banking,Reseller
+ORD-202401-1261,22-01-2024,C008,Ananya Nair,Kochi,Kerala,P025,Board Game,Toys,2,2200,20,880.0,3520.0,2179.78,1340.22,Credit Card,Online
+ORD-202401-1262,08-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P005,Smartwatch,Electronics,2,8000,0,0.0,16000.0,8520.15,7479.85,Credit Card,Store
+ORD-202401-1263,04-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P001,Laptop,Electronics,3,45000,0,0.0,135000.0,91670.98,43329.02,Credit Card,Store
+ORD-202401-1264,19-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P003,Tablet,Electronics,2,25000,0,0.0,50000.0,28834.8,21165.2,EMI,Store
+ORD-202401-1265,01-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P022,Business Book,Books,4,650,0,0.0,2600.0,1588.24,1011.76,UPI,Reseller
+ORD-202401-1266,23-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P002,Smartphone,Electronics,2,18000,5,1800.0,34200.0,20109.86,14090.14,UPI,Store
+ORD-202401-1267,14-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P010,Wardrobe,Furniture,3,35000,0,0.0,105000.0,54243.11,50756.89,Credit Card,Reseller
+ORD-202401-1268,11-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P017,Microwave,Appliances,3,8500,0,0.0,25500.0,17707.66,7792.34,UPI,Online
+ORD-202401-1269,24-01-2024,C005,Rajesh Gupta,Chennai,Tamil Nadu,P025,Board Game,Toys,3,2200,0,0.0,6600.0,4518.48,2081.52,Cash on Delivery,Online
+ORD-202401-1270,13-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P023,Self Help Book,Books,1,550,0,0.0,550.0,275.21,274.79,EMI,Store
+ORD-202401-1271,16-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P003,Tablet,Electronics,2,25000,15,7500.0,42500.0,24041.99,18458.01,Cash on Delivery,Mobile App
+ORD-202401-1272,12-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P003,Tablet,Electronics,4,25000,0,0.0,100000.0,59556.29,40443.71,UPI,Store
+ORD-202401-1273,05-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P022,Business Book,Books,2,650,0,0.0,1300.0,832.24,467.76,EMI,Store
+ORD-202401-1274,24-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P006,Office Chair,Furniture,1,12000,0,0.0,12000.0,7662.61,4337.39,Net Banking,Mobile App
+ORD-202401-1275,15-01-2024,C008,Ananya Nair,Kochi,Kerala,P013,Sneakers,Clothing,1,4500,0,0.0,4500.0,2317.12,2182.88,EMI,Mobile App
+ORD-202401-1276,10-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P022,Business Book,Books,1,650,10,65.0,585.0,392.03,192.97,UPI,Online
+ORD-202401-1277,21-01-2024,C002,Priya Mehta,Delhi,Delhi,P011,Cotton Shirt,Clothing,2,1200,0,0.0,2400.0,1513.66,886.34,Debit Card,Store
+ORD-202401-1278,09-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P010,Wardrobe,Furniture,1,35000,0,0.0,35000.0,21296.85,13703.15,Credit Card,Mobile App
+ORD-202401-1279,11-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P010,Wardrobe,Furniture,4,35000,0,0.0,140000.0,79762.19,60237.81,Net Banking,Reseller
+ORD-202401-1280,19-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P024,Kids Activity Kit,Toys,1,1200,20,240.0,960.0,658.74,301.26,UPI,Online
+ORD-202401-1281,28-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P007,Study Table,Furniture,2,8500,0,0.0,17000.0,9631.2,7368.8,Cash on Delivery,Store
+ORD-202401-1282,04-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P002,Smartphone,Electronics,1,18000,10,1800.0,16200.0,10073.39,6126.61,UPI,Store
+ORD-202401-1283,07-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P016,Mixer Grinder,Appliances,3,4200,10,1260.0,11340.0,7778.91,3561.09,Net Banking,Mobile App
+ORD-202401-1284,20-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P018,Air Purifier,Appliances,3,12000,20,7200.0,28800.0,18923.27,9876.73,Debit Card,Store
+ORD-202401-1285,24-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P024,Kids Activity Kit,Toys,4,1200,15,720.0,4080.0,2671.99,1408.01,EMI,Online
+ORD-202401-1286,06-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P022,Business Book,Books,2,650,0,0.0,1300.0,836.84,463.16,Cash on Delivery,Store
+ORD-202401-1287,03-01-2024,C002,Priya Mehta,Delhi,Delhi,P004,Headphones,Electronics,1,3500,10,350.0,3150.0,1974.95,1175.05,UPI,Mobile App
+ORD-202401-1288,24-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P007,Study Table,Furniture,4,8500,15,5100.0,28900.0,15153.31,13746.69,Cash on Delivery,Mobile App
+ORD-202401-1289,19-01-2024,C015,Suresh Pillai,Thiruvananthapuram,Maharashtra,P015,Jacket,Clothing,1,3800,0,0.0,3800.0,2034.66,1765.34,Net Banking,Store
+ORD-202401-1290,13-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P024,Kids Activity Kit,Toys,4,1200,5,240.0,4560.0,2390.99,2169.01,Credit Card,Online
+ORD-202401-1291,07-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P018,Air Purifier,Appliances,3,12000,0,0.0,36000.0,24582.03,11417.97,Cash on Delivery,Reseller
+ORD-202401-1292,08-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P023,Self Help Book,Books,4,550,20,440.0,1760.0,1098.73,661.27,Net Banking,Reseller
+ORD-202401-1293,15-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P023,Self Help Book,Books,1,550,10,55.0,495.0,264.58,230.42,Net Banking,Reseller
+ORD-202401-1294,08-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P023,Self Help Book,Books,4,550,15,330.0,1870.0,1020.1,849.9,EMI,Store
+ORD-202401-1295,11-01-2024,C012,Neha Jain,Indore,Madhya Pradesh,P020,Electric Kettle,Appliances,2,1800,0,0.0,3600.0,2431.87,1168.13,Credit Card,Online
+ORD-202401-1296,24-01-2024,C011,Mohit Agarwal,Lucknow,Uttar Pradesh,P019,Vacuum Cleaner,Appliances,4,6500,0,0.0,26000.0,14367.77,11632.23,Credit Card,Mobile App
+ORD-202401-1297,11-01-2024,C015,Suresh Pillai,Thiruvananthapuram,Maharashtra,P019,Vacuum Cleaner,Appliances,3,6500,10,1950.0,17550.0,9446.4,8103.6,EMI,Online
+ORD-202401-1298,03-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P010,Wardrobe,Furniture,1,35000,5,1750.0,33250.0,17683.39,15566.61,EMI,Mobile App
+ORD-202401-1299,03-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P008,Bookshelf,Furniture,4,6000,10,2400.0,21600.0,13606.1,7993.9,Credit Card,Reseller
+ORD-202401-1300,10-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P023,Self Help Book,Books,2,550,0,0.0,1100.0,694.08,405.92,Cash on Delivery,Mobile App
+ORD-202401-1301,25-01-2024,C004,Sunita Verma,Jaipur,Rajasthan,P006,Office Chair,Furniture,2,12000,15,3600.0,20400.0,14064.79,6335.21,Cash on Delivery,Store
+ORD-202401-1302,13-01-2024,C006,Deepika Singh,Hyderabad,Telangana,P019,Vacuum Cleaner,Appliances,4,6500,0,0.0,26000.0,13621.1,12378.9,Cash on Delivery,Mobile App
+ORD-202401-1303,16-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P010,Wardrobe,Furniture,1,35000,0,0.0,35000.0,17729.81,17270.19,Debit Card,Mobile App
+ORD-202401-1304,03-01-2024,C005,Rajesh Gupta,Chennai,Tamil Nadu,P016,Mixer Grinder,Appliances,1,4200,0,0.0,4200.0,2546.12,1653.88,UPI,Mobile App
+ORD-202401-1305,08-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P014,Formal Shoes,Clothing,1,6000,10,600.0,5400.0,3360.89,2039.11,Net Banking,Online
+ORD-202401-1306,16-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P009,Bed Frame,Furniture,4,22000,15,13200.0,74800.0,44119.22,30680.78,Debit Card,Online
+ORD-202401-1307,17-01-2024,C014,Pooja Tiwari,Bhopal,Maharashtra,P019,Vacuum Cleaner,Appliances,1,6500,15,975.0,5525.0,3640.34,1884.66,Net Banking,Reseller
+ORD-202401-1308,14-01-2024,C001,Rahul Sharma,Mumbai,Maharashtra,P020,Electric Kettle,Appliances,3,1800,5,270.0,5130.0,2688.76,2441.24,EMI,Online
+ORD-202401-1309,07-01-2024,C003,Amit Kumar,Bangalore,Karnataka,P002,Smartphone,Electronics,2,18000,0,0.0,36000.0,20434.47,15565.53,Net Banking,Store
+ORD-202401-1310,06-01-2024,C002,Priya Mehta,Delhi,Delhi,P012,Jeans,Clothing,4,2500,15,1500.0,8500.0,4618.34,3881.66,Credit Card,Mobile App
+ORD-202401-1311,06-01-2024,C008,Ananya Nair,Kochi,Kerala,P011,Cotton Shirt,Clothing,2,1200,5,120.0,2280.0,1517.37,762.63,Credit Card,Online
+ORD-202401-1312,13-01-2024,C007,Vikram Patel,Ahmedabad,Gujarat,P022,Business Book,Books,1,650,20,130.0,520.0,325.66,194.34,UPI,Store
+ORD-202401-1313,03-01-2024,C005,Rajesh Gupta,Chennai,Tamil Nadu,P007,Study Table,Furniture,1,8500,5,425.0,8075.0,4114.46,3960.54,Cash on Delivery,Online
+ORD-202401-1314,12-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P022,Business Book,Books,4,650,0,0.0,2600.0,1493.87,1106.13,Cash on Delivery,Store
+ORD-202401-1315,18-01-2024,C005,Rajesh Gupta,Chennai,Tamil Nadu,P019,Vacuum Cleaner,Appliances,3,6500,10,1950.0,17550.0,10214.07,7335.93,EMI,Store
+ORD-202401-1316,07-01-2024,C010,Kavya Reddy,Hyderabad,Telangana,P021,Novel - Fiction,Books,3,450,20,270.0,1080.0,619.83,460.17,Credit Card,Reseller
+ORD-202401-1317,22-01-2024,C008,Ananya Nair,Kochi,Kerala,P001,Laptop,Electronics,1,45000,0,0.0,45000.0,31340.64,13659.36,Credit Card,Mobile App
+ORD-202401-1318,06-01-2024,C009,Sanjay Joshi,Pune,Maharashtra,P019,Vacuum Cleaner,Appliances,3,6500,0,0.0,19500.0,11227.17,8272.83,EMI,Online
+ORD-202401-1319,11-01-2024,C013,Arjun Kapoor,Mumbai,Maharashtra,P021,Novel - Fiction,Books,4,450,0,0.0,1800.0,1105.79,694.21,Net Banking,Reseller
